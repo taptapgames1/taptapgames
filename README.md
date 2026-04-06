@@ -77,16 +77,16 @@ section {
 <section id="games">
     <h1>Our Games</h1>
     <div class="game-grid">
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.tt31.roomescame.survival.game"><p>Car Racer 1</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.tt30.iam.car.driver.megaramp.stunts"><p>Car Racer 2</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.swing.obby.brainrot.game"><p>Speed Action 3</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.ps.monkey.crazy.prankster.game"><p>Turbo Drive 4</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.escape.tsunami.brainrot"><p>Street Rush 5</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.gl.brainrot.collector.game"><p>Fast Wheels 6</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=ru.antkarlov.zombotron"><p>Drift King 7</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.MobEntertainment.PoppyPlaytimeChapter3"><p>Extreme Racer 8</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.touchfoo.swordigo"><p>Action Nitro 9</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.gv.steal.supercar.fish.memerot"><p>Highway Fury 10</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.tt31.roomescame.survival.game"><p>Room Escape</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.tt30.iam.car.driver.megaramp.stunts"><p>Taxi Driver VR</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.swing.obby.brainrot.game"><p>Prison Escape</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.ps.monkey.crazy.prankster.game"><p>Monkey Pranks</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.escape.tsunami.brainrot"><p>Tsunami Escape</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.gl.brainrot.collector.game"><p>Brainrots Games</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=ru.antkarlov.zombotron"><p>Zombotron Game</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.MobEntertainment.PoppyPlaytimeChapter3"><p>Poppy Playtoys</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.touchfoo.swordigo"><p>TouchFoo Sword</p></div>
+        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.gv.steal.supercar.fish.memerot"><p>Super Fish</p></div>
     </div>
 </section>
 
