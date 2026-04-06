@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -108,4 +108,3 @@ function showPage(pageId) {
 
 </body>
 </html>
-```
