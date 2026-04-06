@@ -77,16 +77,16 @@ section {
 <section id="games">
     <h1>Our Games</h1>
     <div class="game-grid">
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.tt31.roomescame.survival.game"><p>Room Escape</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.tt30.iam.car.driver.megaramp.stunts"><p>Taxi Driver VR</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.swing.obby.brainrot.game"><p>Prison Escape</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.ps.monkey.crazy.prankster.game"><p>Monkey Pranks</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.escape.tsunami.brainrot"><p>Tsunami Escape</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.gl.brainrot.collector.game"><p>Brainrots Games</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=ru.antkarlov.zombotron"><p>Zombotron Game</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.MobEntertainment.PoppyPlaytimeChapter3"><p>Poppy Playtoys</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.touchfoo.swordigo"><p>TouchFoo Sword</p></div>
-        <div class="game"><img src="https://play.google.com/store/apps/details?id=com.gv.steal.supercar.fish.memerot"><p>Super Fish</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/ERDu0Q6wgP6vi4sDn22tfikLEOD1AFie_vbU5dZB5oQq5RpT-IzYLxs7zF29_vNQ-cHdGzuVX9ztyDIG5YVH=w480-h960"><p>Room Escape</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/iK60hJInXfyvqYCCHXh1YiS0VGK3iWe_M0DiwlAGYHZDrAB1mMZfLwoW3QkAw7ikdYrGI4FQ9YinNBaqZQ0pLw=w480-h960-rw"><p>Taxi Driver VR</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/24ZYFEKHmZIDc9gHpwAGkFeAbu2E_UIG37KuJy9zPOiNwz0eX5dFFMQF_RnI3JtdKi4=w480-h960"><p>Prison Escape</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/6lAkKAffFkNh0zEqsW-omE8pDpQyiCi1u9iwWTB-SP0QH6vO0d6Bir49qpE709P6qGP5BU0SlsamJmCx6SD3=w480-h960"><p>Monkey Pranks</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/qrnNqb_9AfidSIa6QKlGRqfIAyBtGw16y-qf7FQ8nh2oIe5a8swcXp2-lrT1bf73TMKI7DgXLDWeBOnozt48qcI=w480-h960"><p>Tsunami Escape</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/ikHZSSLzci3WXTBR1Vie3mIQlaqdd4iRU40Z7dcd-du11d4JYjbn1Dfog6s_In9awty77uUw4iUbPhd7gSmsCQ=s512"><p>Brainrots Games</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/ji2zm6a8BxoFiIOdImIpEVcrJ43wvN0Z-NanHEWJ0Syl-r_xLBvm4Us7uFPvRiWr7hc81Rc3IKV4wiDFH8DLug=w480-h960"><p>Zombotron Game</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/-4dSZjsh1LX-aczh0SrslsgUIH6s7qMOSLFcsTlNn1B6M4zSnm_IC5hw2xFcPH9Jhi4=w480-h960"><p>Poppy Playtoys</p></div>
+        <div class="game"><img src="[https://play.google.com/store/apps/details?id=com.touchfoo.swordigo](https://play-lh.googleusercontent.com/4f4J0nS4nZydWXx2rtt9dqRU71ItAEc7-bEQPaHyFMdSZMK63FjY0pC0cwH9mHeZLLFWKqRNxCmlS6g6GlCxPg=s512)"><p>TouchFoo Sword</p></div>
+        <div class="game"><img src="[https://play.google.com/store/apps/details?id=com.gv.steal.supercar.fish.memerot](https://play-lh.googleusercontent.com/ikHZSSLzci3WXTBR1Vie3mIQlaqdd4iRU40Z7dcd-du11d4JYjbn1Dfog6s_In9awty77uUw4iUbPhd7gSmsCQ=w480-h960)"><p>Super Fish</p></div>
     </div>
 </section>
 
