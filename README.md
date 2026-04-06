@@ -67,7 +67,7 @@ section {
 
 <!-- HOME -->
 <section id="home" class="active">
-    <h1>TapTap Games</h1>
+    <h1>TapTap Games 2</h1>
     <p>Welcome to TapTap Games!</p>
     <p>We are a passionate Games Development Company creating exciting and engaging mobile games.</p>
     <p>Our focus is on high-quality racing and action games that deliver fun and immersive experiences.</p>
