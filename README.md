@@ -28,7 +28,7 @@ nav button {
 }
 
 section {
-    display: none;
+    display: block;
     padding: 20px;
     text-align: center;
 }
