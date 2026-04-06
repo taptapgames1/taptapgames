@@ -85,8 +85,8 @@ section {
         <div class="game"><img src="https://play-lh.googleusercontent.com/ikHZSSLzci3WXTBR1Vie3mIQlaqdd4iRU40Z7dcd-du11d4JYjbn1Dfog6s_In9awty77uUw4iUbPhd7gSmsCQ=s512"><p>Brainrots Games</p></div>
         <div class="game"><img src="https://play-lh.googleusercontent.com/ji2zm6a8BxoFiIOdImIpEVcrJ43wvN0Z-NanHEWJ0Syl-r_xLBvm4Us7uFPvRiWr7hc81Rc3IKV4wiDFH8DLug=w480-h960"><p>Zombotron Game</p></div>
         <div class="game"><img src="https://play-lh.googleusercontent.com/-4dSZjsh1LX-aczh0SrslsgUIH6s7qMOSLFcsTlNn1B6M4zSnm_IC5hw2xFcPH9Jhi4=w480-h960"><p>Poppy Playtoys</p></div>
-        <div class="game"><img src="[https://play.google.com/store/apps/details?id=com.touchfoo.swordigo](https://play-lh.googleusercontent.com/4f4J0nS4nZydWXx2rtt9dqRU71ItAEc7-bEQPaHyFMdSZMK63FjY0pC0cwH9mHeZLLFWKqRNxCmlS6g6GlCxPg=s512)"><p>TouchFoo Sword</p></div>
-        <div class="game"><img src="[https://play.google.com/store/apps/details?id=com.gv.steal.supercar.fish.memerot](https://play-lh.googleusercontent.com/ikHZSSLzci3WXTBR1Vie3mIQlaqdd4iRU40Z7dcd-du11d4JYjbn1Dfog6s_In9awty77uUw4iUbPhd7gSmsCQ=w480-h960)"><p>Super Fish</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/4f4J0nS4nZydWXx2rtt9dqRU71ItAEc7-bEQPaHyFMdSZMK63FjY0pC0cwH9mHeZLLFWKqRNxCmlS6g6GlCxPg=s512"><p>TouchFoo Sword</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/ikHZSSLzci3WXTBR1Vie3mIQlaqdd4iRU40Z7dcd-du11d4JYjbn1Dfog6s_In9awty77uUw4iUbPhd7gSmsCQ=w480-h960"><p>Super Fish</p></div>
     </div>
 </section>
 
