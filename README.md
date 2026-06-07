@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>TapTap Games</title>
+<title>Daal Games</title>
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -67,8 +67,8 @@ section {
 
 <!-- HOME -->
 <section id="home" class="active">
-    <h1>TapTap Games</h1>
-    <p>Welcome to TapTap Games!</p>
+    <h1>Daal Games</h1>
+    <p>Welcome to Daal Games!</p>
     <p>We are a passionate Games Development Company creating exciting and engaging mobile games.</p>
     <p>Our focus is on high-quality racing and action games that deliver fun and immersive experiences.</p>
 </section>
@@ -94,7 +94,7 @@ section {
 <section id="contact">
     <h1>Contact Us</h1>
     <p>Email us at:</p>
-    <p><b>taptapgames1@gmail.com</b></p>
+    <p><b>daalgames01@gmail.com</b></p>
 </section>
 
 <script>
