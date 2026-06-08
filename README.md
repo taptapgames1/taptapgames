@@ -65,6 +65,17 @@ section {
     <button onclick="showPage('contact')">CONTACT US</button>
 </nav>
 
+
+<section id="contact">
+    <h1>Refund Policy</h1>
+
+<p>
+Thank you for choosing our games. We strive to provide a fair and enjoyable gaming experience for all users. Refunds may not be granted for reasons such as accidental purchases after content has been used, completed, or consumed. For technical problems related to our games, please contact our support team.
+</p>
+    <p><b>taptapgames1@gmail.com</b></p>
+</section>
+
+
 <!-- HOME -->
 <section id="home" class="active">
     <h1>TapTap Games</h1>
@@ -72,6 +83,8 @@ section {
     <p>We are a passionate Games Development Company creating exciting and engaging mobile games.</p>
     <p>Our focus is on high-quality racing and action games that deliver fun and immersive experiences.</p>
 </section>
+
+
 
 <!-- GAMES -->
 <section id="games">
@@ -97,14 +110,7 @@ section {
     <p><b>taptapgames1@gmail.com</b></p>
 </section>
 
-<section id="contact">
-    <h1>Refund Policy</h1>
 
-<p>
-Thank you for choosing our games. We strive to provide a fair and enjoyable gaming experience for all users. Refunds may not be granted for reasons such as accidental purchases after content has been used, completed, or consumed. For technical problems related to our games, please contact our support team.
-</p>
-    <p><b>taptapgames1@gmail.com</b></p>
-</section>
 
 
 
