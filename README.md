@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Daal Games</title>
+<title>TapTap Games</title>
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -67,8 +67,8 @@ section {
 
 <!-- HOME -->
 <section id="home" class="active">
-    <h1>Daal Games</h1>
-    <p>Welcome to Daal Games!</p>
+    <h1>TapTap Games</h1>
+    <p>Welcome to TapTap Games!</p>
     <p>We are a passionate Games Development Company creating exciting and engaging mobile games.</p>
     <p>Our focus is on high-quality racing and action games that deliver fun and immersive experiences.</p>
 </section>
@@ -94,8 +94,19 @@ section {
 <section id="contact">
     <h1>Contact Us</h1>
     <p>Email us at:</p>
-    <p><b>daalgames01@gmail.com</b></p>
+    <p><b>TapTapgames01@gmail.com</b></p>
 </section>
+
+<section id="contact">
+    <h1>Refund Policy</h1>
+
+<p>
+Thank you for choosing our games. We strive to provide a fair and enjoyable gaming experience for all users. Refunds may not be granted for reasons such as accidental purchases after content has been used, completed, or consumed. For technical problems related to our games, please contact our support team.
+</p>
+    <p><b>TapTapgames01@gmail.com</b></p>
+</section>
+
+
 
 <script>
 function showPage(pageId) {
