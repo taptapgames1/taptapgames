@@ -94,7 +94,7 @@ section {
 <section id="contact">
     <h1>Contact Us</h1>
     <p>Email us at:</p>
-    <p><b>TapTapgames01@gmail.com</b></p>
+    <p><b>taptapgames1@gmail.com</b></p>
 </section>
 
 <section id="contact">
@@ -103,7 +103,7 @@ section {
 <p>
 Thank you for choosing our games. We strive to provide a fair and enjoyable gaming experience for all users. Refunds may not be granted for reasons such as accidental purchases after content has been used, completed, or consumed. For technical problems related to our games, please contact our support team.
 </p>
-    <p><b>TapTapgames01@gmail.com</b></p>
+    <p><b>taptapgames1@gmail.com</b></p>
 </section>
 
 
