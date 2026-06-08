@@ -70,7 +70,8 @@ section {
     <h1>Refund Policy</h1>
 
 <p>
-Thank you for choosing our games. We strive to provide a fair and enjoyable gaming experience for all users. Refunds may not be granted for reasons such as accidental purchases after content has been used, completed, or consumed. For technical problems related to our games, please contact our support team.
+Thank you for choosing our games. We strive to provide a fair and enjoyable gaming experience for all users. The items purchased in our games are immediately consumed right after the purchase. <H2>So refunds will not be granted for reasons such as accidental purchases etc.</H2>
+For technical problems related to our games, please contact our support team.
 </p>
     <p><b>taptapgames1@gmail.com</b></p>
 </section>
